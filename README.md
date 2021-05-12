@@ -1,3 +1,3 @@
 # SPS-10602-Loan-Eligibility-Prediction
 Loan Eligibility Prediction
-Project Demonstration link: https://drive.google.com/file/d/1MpLQzQlBZOpjWGp95sGNbHVeue2XeKm9/view?usp=sharing 
+Project Demonstration link: https://drive.google.com/file/d/1cd1rW6sIZ92-m5SVMLRUWl3JLokW6J5k/view?usp=sharing 
